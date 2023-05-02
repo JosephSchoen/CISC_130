@@ -30,7 +30,7 @@
 
 During my time at the University of St. Thomas, I was taking a computer science course, as a mechanical engineering major. This is the course that changed my major! The main focus was learning on the fundamentals of coding. In this repository, I have included all of my lab assignments. These lab assignments were the beginning blocks of my coding career, and demonstrate the skills I had originally learned in class! Although they may be basic programs, it creates a sense of uniquely using C++ to complete a task!
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -38,7 +38,7 @@ During my time at the University of St. Thomas, I was taking a computer science 
 
 * C++
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 <!-- USAGE EXAMPLES -->
@@ -46,7 +46,7 @@ During my time at the University of St. Thomas, I was taking a computer science 
 
 The main usage of this repository is to display the beginning of my coding career. As I learned more about code, my professor would often push us with these labs. The professor always provided us with just enough information to complete the lab, making us think outside of the box to complete these labs!
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
