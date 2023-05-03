@@ -37,6 +37,7 @@ During my time at the University of St. Thomas, I was taking a computer science 
 ### Built With
 
 * C++
+* MATLAB
 
 
 
